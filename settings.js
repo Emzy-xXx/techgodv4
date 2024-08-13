@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349030155629"
-global.ownername = "𝚡𝚊𝚗𝚍.𝚊𝚛𝚛😘"
+global.ownernomer = "2348109219829"
+global.ownername = "🕷️Eric🕷️"
 global.ytname = "YT: Tech God"
 global.socialm = "GitHub: techgod143"
 global.location = "???, UP, france"
 
-global.ownernumber = '2349030155629'  //creator number
-global.ownername = '𝚡𝚊𝚗𝚍.𝚊𝚛𝚛' //owner name
+global.ownernumber = '2348109219829'  //creator number
+global.ownername = 'Eric-xXx' //owner name
 global.botname = 'Tech God V4' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄𝚡𝚊𝚗𝚍.𝚊𝚛𝚛\n\nContact: +917466008456'
+global.author = '🕷️Eric-xXx\n\nContact: +2348109219829'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -37,7 +37,7 @@ global.prefa = [',']
 
 //false=disable and true=enable
 global.autoRecording = true //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
